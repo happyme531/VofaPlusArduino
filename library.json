@@ -1,0 +1,14 @@
+{
+  "name": "VofaPlus",
+  "description": "Advanced serial utility companion for arduino.",
+  "keywords": "serial",
+  "authors":{
+    "name": "happyme531"
+  },
+  "repository":{
+    "type": "git",
+    "url": "https://github.com/happyme531/VofaPlusArduino.git"
+  },
+  "version": "0.0.1",
+  "framework": "arduino"
+}
